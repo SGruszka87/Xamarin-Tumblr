@@ -1,0 +1,27 @@
+﻿navigationpage {
+    -xf-bar-background-color: #24254a;
+    -xf-bar-text-color: white;
+    -xf-bar-color: black;
+    text-shadow: 8;
+    color: black;
+}
+
+^contentpage {
+    background-color: #42447d;
+}
+
+label {
+    color: black;
+}
+
+button {
+    background-color: #e8c887;
+    opacity: 0.6;
+    border-color: #a8c887;
+    border-radius: 15;
+}
+
+frame {
+    border-color: #4247db;
+    border-radius: 15;
+}

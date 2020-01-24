@@ -1,0 +1,16 @@
+D:\projekty\Tumblr\Tumblr\bin\Debug\netstandard2.0\Tumblr.deps.json
+D:\projekty\Tumblr\Tumblr\bin\Debug\netstandard2.0\Tumblr.dll
+D:\projekty\Tumblr\Tumblr\bin\Debug\netstandard2.0\ref\Tumblr.dll
+D:\projekty\Tumblr\Tumblr\bin\Debug\netstandard2.0\Tumblr.pdb
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Style\Style.css.g.cs
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Tumblr.AssemblyInfoInputs.cache
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Tumblr.AssemblyInfo.cs
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\XamlC.stamp
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Tumblr.dll
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\ref\Tumblr.dll
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Tumblr.pdb
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\Tumblr.csprojAssemblyReference.cache
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\view\Menu\Strona_Glowna_Page.xaml.g.cs
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\view\Zakladki\Tumblr_Avatar_Page.xaml.g.cs
+D:\projekty\Tumblr\Tumblr\obj\Debug\netstandard2.0\view\Zakladki\Tumblr_Info_Page.xaml.g.cs
